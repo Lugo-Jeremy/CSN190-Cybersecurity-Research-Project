@@ -95,7 +95,6 @@ Chapple, M. (2024). Top 5 Must-Have Programming Languages for Cybersecurity Pros
 - `/weekly-progress/` - All weekly assignments and progress updates
 - `/resources/` - Compiled research sources and bibliography
 - `/final-paper/` - Research papers and articles
-- `/images/` - Screenshots and visual documents
 
 ## Results Summary
 What I learned with putting this project together is how to properly research and learn over time how important coding and programming is to cybersecurity. It starts within the code. The programmers develop the code and have to make sure the code is secure before deploying to consumers. With research, I learned more about the industry and how layered it is within cybersecurity. It inspired me to learn more and have the mindset that the sky is the limit when it comes to this industry. Do not box yourself in from learning all there is to learn.  
