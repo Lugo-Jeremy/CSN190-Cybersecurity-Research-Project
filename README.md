@@ -102,4 +102,5 @@ What I learned with putting this project together is how to properly research an
 ## Contact
 - Email: jeremylugo1997@gmail.com
 - LinkedIn: Jeremy Lugo
+- Published Medium Article: https://medium.com/@mootunez12/coding-in-cybersecurity-two-worlds-colliding-for-the-future-of-technology-0d6716ea7b76?postPublishedType=initial
 
